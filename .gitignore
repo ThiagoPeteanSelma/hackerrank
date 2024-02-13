@@ -93,3 +93,6 @@ yarn-error.log
 *.suo
 *.cache
 *.dll
+*.cache
+*.cache
+TestHackerRank/.vs/TestHackerRank/v17/.suo
