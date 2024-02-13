@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TestHackerRank.Class.Problem
+namespace ConsoleAppHackerRank.Class.Problem
 {
-    internal class DiagonalDifference
+    public class DiagonalDifference
     {        
         public static int diagonalDifference(List<List<int>> arr)
         {
-            int qtdLines = arr.Count(), sumPriDia = 0, sumSecDia = 0;
+            int qtdLines = arr.Count, sumPriDia = 0, sumSecDia = 0;
             for (int m = 0; m < qtdLines; m++)
             {
                 for (int n = 0; n < qtdLines; n++)

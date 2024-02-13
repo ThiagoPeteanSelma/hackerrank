@@ -1,0 +1,15 @@
+D:\Project\ThiagoPeteanSelma\hackerrank\TestHackerRank\ConsoleAppHackerRank\bin\Debug\net6.0\ConsoleAppHackerRank.exe
+D:\Project\ThiagoPeteanSelma\hackerrank\TestHackerRank\ConsoleAppHackerRank\bin\Debug\net6.0\ConsoleAppHackerRank.deps.json
+D:\Project\ThiagoPeteanSelma\hackerrank\TestHackerRank\ConsoleAppHackerRank\bin\Debug\net6.0\ConsoleAppHackerRank.runtimeconfig.json
+D:\Project\ThiagoPeteanSelma\hackerrank\TestHackerRank\ConsoleAppHackerRank\bin\Debug\net6.0\ConsoleAppHackerRank.dll
+D:\Project\ThiagoPeteanSelma\hackerrank\TestHackerRank\ConsoleAppHackerRank\bin\Debug\net6.0\ConsoleAppHackerRank.pdb
+D:\Project\ThiagoPeteanSelma\hackerrank\TestHackerRank\ConsoleAppHackerRank\obj\Debug\net6.0\ConsoleAppHackerRank.csproj.AssemblyReference.cache
+D:\Project\ThiagoPeteanSelma\hackerrank\TestHackerRank\ConsoleAppHackerRank\obj\Debug\net6.0\ConsoleAppHackerRank.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\ThiagoPeteanSelma\hackerrank\TestHackerRank\ConsoleAppHackerRank\obj\Debug\net6.0\ConsoleAppHackerRank.AssemblyInfoInputs.cache
+D:\Project\ThiagoPeteanSelma\hackerrank\TestHackerRank\ConsoleAppHackerRank\obj\Debug\net6.0\ConsoleAppHackerRank.AssemblyInfo.cs
+D:\Project\ThiagoPeteanSelma\hackerrank\TestHackerRank\ConsoleAppHackerRank\obj\Debug\net6.0\ConsoleAppHackerRank.csproj.CoreCompileInputs.cache
+D:\Project\ThiagoPeteanSelma\hackerrank\TestHackerRank\ConsoleAppHackerRank\obj\Debug\net6.0\ConsoleAppHackerRank.dll
+D:\Project\ThiagoPeteanSelma\hackerrank\TestHackerRank\ConsoleAppHackerRank\obj\Debug\net6.0\refint\ConsoleAppHackerRank.dll
+D:\Project\ThiagoPeteanSelma\hackerrank\TestHackerRank\ConsoleAppHackerRank\obj\Debug\net6.0\ConsoleAppHackerRank.pdb
+D:\Project\ThiagoPeteanSelma\hackerrank\TestHackerRank\ConsoleAppHackerRank\obj\Debug\net6.0\ConsoleAppHackerRank.genruntimeconfig.cache
+D:\Project\ThiagoPeteanSelma\hackerrank\TestHackerRank\ConsoleAppHackerRank\obj\Debug\net6.0\ref\ConsoleAppHackerRank.dll

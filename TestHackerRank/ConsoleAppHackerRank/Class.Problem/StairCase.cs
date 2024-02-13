@@ -4,10 +4,22 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TestHackerRank.Class.Problem
+namespace ConsoleAppHackerRank.Class.Problem
 {
-    internal class StairCase
+    public class StairCase
     {
+        /// <summary>
+        /// Staircase detail
+        ///This is a staircase of size :     
+        ///   #
+        ///  ##
+        /// ###
+        ///####
+        ///Its base and height are both equal to.It is drawn using # symbols and spaces. The last line is not preceded by any spaces.
+        ///Write a program that prints a staircase of size.
+        /// </summary>
+        /// <param name="n">The function accepts INTEGER n as parameter.</param>
+        /// <returns>The function return a string with \r\n (break line)</returns>
         public static string stairCase(int n)
         {
             List<string> l = new();

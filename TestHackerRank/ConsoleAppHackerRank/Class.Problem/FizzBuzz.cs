@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TestHackerRank.Class.Problem
+namespace ConsoleAppHackerRank.Class.Problem
 {
     public class FizzBuzz
     {

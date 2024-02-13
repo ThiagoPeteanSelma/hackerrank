@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TestHackerRank.Class.Problem
+namespace ConsoleAppHackerRank.Class.Problem
 {
-    internal class PlusMinus
+    public class PlusMinus
     {
         public static string plusMinus(List<int> arr)
         {

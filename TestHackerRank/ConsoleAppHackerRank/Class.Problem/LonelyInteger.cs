@@ -1,6 +1,6 @@
-﻿namespace TestHackerRank.Class.Problem
+﻿namespace ConsoleAppHackerRank.Class.Problem
 {
-    internal class LonelyInteger
+    public class LonelyInteger
     {
         public static int lonelyInteger(List<int> a)
         {
