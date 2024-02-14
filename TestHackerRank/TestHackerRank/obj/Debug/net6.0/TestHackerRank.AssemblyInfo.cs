@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TestHackerRank")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ba7f4030410d227216978bb6f037b5a38845326")]
 [assembly: System.Reflection.AssemblyProductAttribute("TestHackerRank")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TestHackerRank")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

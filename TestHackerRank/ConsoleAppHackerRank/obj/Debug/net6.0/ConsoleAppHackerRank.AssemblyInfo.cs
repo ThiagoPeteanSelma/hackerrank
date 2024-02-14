@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleAppHackerRank")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ba7f4030410d227216978bb6f037b5a38845326")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleAppHackerRank")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleAppHackerRank")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
