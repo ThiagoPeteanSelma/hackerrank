@@ -1660,6 +1660,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
+      },
+      "ConsoleAppHackerRank/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ConsoleAppHackerRank.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ConsoleAppHackerRank.dll": {}
+        }
       }
     }
   },
@@ -6197,10 +6207,16 @@
         "system.xml.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xdocument.nuspec"
       ]
+    },
+    "ConsoleAppHackerRank/1.0.0": {
+      "type": "project",
+      "path": "../ConsoleAppHackerRank/ConsoleAppHackerRank.csproj",
+      "msbuildProject": "../ConsoleAppHackerRank/ConsoleAppHackerRank.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "ConsoleAppHackerRank >= 1.0.0",
       "MSTest.TestAdapter >= 2.2.8",
       "MSTest.TestFramework >= 2.2.8",
       "Microsoft.NET.Test.Sdk >= 17.1.0",
@@ -6238,7 +6254,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Project\\ThiagoPeteanSelma\\hackerrank\\TestHackerRank\\ConsoleAppHackerRank\\ConsoleAppHackerRank.csproj": {
+              "projectPath": "D:\\Project\\ThiagoPeteanSelma\\hackerrank\\TestHackerRank\\ConsoleAppHackerRank\\ConsoleAppHackerRank.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

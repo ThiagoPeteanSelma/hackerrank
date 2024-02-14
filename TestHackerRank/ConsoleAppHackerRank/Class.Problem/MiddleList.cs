@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TestHackerRank.Class.Problem
+namespace ConsoleAppHackerRank.Class.Problem
 {
-    internal class MiddleList
+    public class MiddleList
     {
         public static int middleList(List<int> arr)
         {
